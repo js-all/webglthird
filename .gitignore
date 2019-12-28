@@ -1,0 +1,5 @@
+node_modules/*
+!node_modules/.placeholder
+js/*
+!js/math.js
+!js/RH.js
